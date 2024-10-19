@@ -1,0 +1,4 @@
+username: kollyweall
+password: U2aZI7aOV8XesgUj
+
+connection string mongodb+srv://kolly4weall:U2aZI7aOV8XesgUj@codysensecluster.aovdv.mongodb.net/?retryWrites=true&w=majority&appName=CodySenseCluster
